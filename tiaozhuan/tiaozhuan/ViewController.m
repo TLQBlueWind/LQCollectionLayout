@@ -17,6 +17,9 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
+    
+    UIButton *button = [[UIButton alloc] initWithFrame:CGRectMake(20, 100, 100, 50)];
+    
 }
 
 - (IBAction)tiaohzuan:(id)sender {
